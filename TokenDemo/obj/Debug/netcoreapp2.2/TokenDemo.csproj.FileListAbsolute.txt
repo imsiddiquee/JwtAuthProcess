@@ -1,0 +1,14 @@
+C:\Users\LinkVision\source\repos\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\TokenDemo.deps.json
+C:\Users\LinkVision\source\repos\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\TokenDemo.runtimeconfig.json
+C:\Users\LinkVision\source\repos\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\TokenDemo.runtimeconfig.dev.json
+C:\Users\LinkVision\source\repos\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\TokenDemo.dll
+C:\Users\LinkVision\source\repos\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\TokenDemo.pdb
+C:\Users\LinkVision\source\repos\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.csproj.CoreCompileInputs.cache
+C:\Users\LinkVision\source\repos\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.RazorAssemblyInfo.cache
+C:\Users\LinkVision\source\repos\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.RazorAssemblyInfo.cs
+C:\Users\LinkVision\source\repos\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.AssemblyInfoInputs.cache
+C:\Users\LinkVision\source\repos\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.AssemblyInfo.cs
+C:\Users\LinkVision\source\repos\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.RazorTargetAssemblyInfo.cache
+C:\Users\LinkVision\source\repos\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.dll
+C:\Users\LinkVision\source\repos\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.pdb
+C:\Users\LinkVision\source\repos\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.csprojAssemblyReference.cache
